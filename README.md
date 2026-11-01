@@ -1,3 +1,4 @@
+![Capa do Projeto](Testes.png)
 # Projeto de QA — Testes Automatizados com Python e Pytest
 
 ## Sobre o projeto
